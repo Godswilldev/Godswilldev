@@ -3,11 +3,11 @@
 
 <p align="center">
 
-  <a href="https://github.com/GideonOdiokine?tab=followers">
+
 
     <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 
-  </a>
+
 
 </p>
 
