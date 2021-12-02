@@ -2,15 +2,6 @@
 
 
 
-<p align="center">
-
-  <a href="https://github.com/Godswilldev?tab=followers">
-
-    <img src="https://img.shields.io/github/followers/Godswilldev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-
-  </a>
-
-</p>
 
 <div align="center">
 
