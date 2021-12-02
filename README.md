@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Now that you've come across this account be sure to follow 👋
 
 <!--
 **Godswilldev/Godswilldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/Godswilldev?tab=followers">
 
-    <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Godswilldev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 
   </a>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/godswilledet">
 
     <h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
-     😄 Pronouns: He/Him ⚡ ...  Fun fact: I'm a Redux Beast
+
 
   
 
