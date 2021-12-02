@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <a href="https://www.facebook.com/godswilledet">
+  <a href="https://www.facebook.com/profile.php?id=100005428547232">
 
-    <h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
+    <h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px">
+    </h2>
+
+<h2>😄 Pronouns: He/Him ... ⚡ Fun fact: I'm a Redux Beast </h2>
 
 
-  
-
-  </a>
+</a>
 
 </div>
 
