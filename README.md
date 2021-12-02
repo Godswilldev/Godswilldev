@@ -4,9 +4,9 @@
 
 
 
-
-<img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-
+<div align="center">
+<img src="https://img.shields.io/github/followers/Godswilldev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+</div>
 
 
 
