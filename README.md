@@ -1,15 +1,15 @@
 ### Hi there, Now that you've come across this account be sure to follow 👋
 
 
-<p align="center">
 
 
 
-    <img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+
+<img src="https://img.shields.io/github/followers/GideonOdiokine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 
 
 
-</p>
+
 
 
 
