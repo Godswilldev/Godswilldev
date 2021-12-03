@@ -29,7 +29,7 @@
 
 <p align="center">
 
-Skills
+<h2>Skills</h2>
 
 </p>
 
