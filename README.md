@@ -29,7 +29,7 @@
 
 <p align="center">
 
-Languages and Tools
+Skills
 
 </p>
 
