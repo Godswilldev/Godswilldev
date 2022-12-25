@@ -17,11 +17,7 @@
 
 
 
-<h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px">
-    </h2>
-
-<h2>😄 Pronouns: He/Him ... ⚡ Fun fact: I'm a Redux Beast </h2>
-
+<h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
 
 
 
@@ -45,7 +41,7 @@
 
  <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> Redux</code>
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"> React Native</code>
+<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/aws.png"> React Native</code>
 
 <!-- <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code> -->
 
