@@ -10,19 +10,6 @@
 
 
 
-
-
-
-<div align="center">
-
-
-
-<h2>Hola, I'm Godswill Edet <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
-
-
-
-</div>
-
 <p align="center">
 
 <h2>Skills</h2>
