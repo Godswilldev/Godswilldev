@@ -30,18 +30,8 @@
 
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js</code>
 
-
  <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> Redux</code>
 
-
-
 </p>
 
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Godswilldev&show_icons=true&theme=tokyonight" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Godswilldev&theme=tokyonight" />
-
-</p>
 
