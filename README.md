@@ -1,15 +1,6 @@
 ### Welcome 👋
 
 
-<a href="#" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzMbCZLmBska2iqFuTpHqdV2qyus1" alt="GitRoll Profile Badge"/></a>
-
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/Godswilldev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</div>
-
-
-
 <p align="center">
 
 <h2>Skills</h2>
